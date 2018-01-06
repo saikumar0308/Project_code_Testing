@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+.navbar-nav>li>a.profile-image {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.breadcrumb a {
+  cursor: pointer;
+}
+.media-body {
+  vertical-align: middle;
+  text-transform: capitalize;
+}
+.media-body .media-heading{
+
+}
+.thumbnail .caption {
+  text-transform: capitalize;
+}
